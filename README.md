@@ -5,10 +5,10 @@ Overview:
 This Java program is designed to find the longest and second longest compounded words from a list of alphabetically sorted words provided in a text file. A compounded word is defined as one that can be constructed by concatenating shorter words also found in the same file.
 
 ##Execution Steps:
-
-1. Run the program in java installed system
-2. Place the input text file (e.g., Input_01.txt) in the same directory as the Java code. or you can paste the path of the txt file.
-3. Compile and Run the code.
+1. Change the class name from LongestCompoundedWord to Main if using online java compiler.
+2. Run the program in java installed system
+3. Place the input text file (e.g., Input_01.txt) in the same directory as the Java code. or you can paste the path of the txt file.
+4. Compile and Run the code.
     
 The program will process the input file, find the longest and second longest compounded words, and display the results along with the time taken to process the file in milliseconds.
 
